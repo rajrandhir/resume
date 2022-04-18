@@ -1,0 +1,43 @@
+.aboutme_text{
+    color: darkslategray;
+    font-size: smaller;
+    line-height: 22px;
+}
+.resume_timeline .resume_content .timeline_title{
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+.resume_timeline .resume_content .timeline_Date{
+    color: darkslateblue !important;
+}
+.resume_timeline .resume_content .timeline_description{
+    color: gray !important;
+    font-size: small;
+    margin-top: 6px !important;
+}
+/* servic */
+.service{
+    height: 100%;
+    text-align: center;
+}
+.service .service_title{
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    line-height: 35px !important;
+    text-align: center !important;
+}
+.service .service_desp{
+    color: #989898;
+    background-color: var(--main_color) !important;
+    margin-right: 5px !important;
+    text-align: center !important;
+}
+.service_icon > .MuiSvgIcon-root{
+    border: 2px solid red !important;
+ 
+   
+    
+}
+
+
+
